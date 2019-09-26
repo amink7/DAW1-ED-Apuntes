@@ -6,7 +6,7 @@
 ![Entornos de desarrollo](http://jamj2000.github.io/entornosdesarrollo/entornosdesarrollo.png)
 
 
-## JP YONKI
+## JP YONKI MIGUE CANI
 [Unidad 1: Elementos de desarrollo del software](1.ELEMENTOS.md)   
 [Unidad 2: Entornos integrados de desarrollo](2.ENTORNOS.md)  
 [Unidad 3: Diseño y realización de pruebas](3.PRUEBAS.md)  
